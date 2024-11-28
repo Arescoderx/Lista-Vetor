@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Exercicio_08 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
-        int quantidade = 10;
+        int quantidade = 20;
         Float aluno[] = new Float[quantidade];
         Float total = 0f;
         Float media = 0f;
